@@ -4,7 +4,7 @@
 请下载最新版IDM,并修改config.ini中的`IDM_Path`为IDM的安装路径，`Down_Path`为视频的下载路径。
 然后运行main.py即可
 
-如果您只是想使用本项目，请前往release下载。
+如果您只是想使用本项目，请前往[Releases](https://github.com/notrainbow/Course-Videos-Downloader-for-XDU/releases/)下载。
 # 注意
 
 **避免循环下载**：PPT下载到150M、板书下载到700M时请手动停止下载并保存，否则将无限下载。

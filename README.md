@@ -15,6 +15,7 @@
 
 **如何手动保存视频** ![image](https://user-images.githubusercontent.com/65484889/120215671-93621c80-c268-11eb-863b-5d1ff1c9ede8.png)
 
+![image](https://user-images.githubusercontent.com/65484889/120215718-a2e16580-c268-11eb-8b9b-1950df336ac1.png)
 
 
 # 声明

@@ -43,7 +43,7 @@ def DownVideo(ID,Name,DownPath,Mode):#模式0：只下ppt；模式1：只下教�
         url_tmp=url_decode[index1+15:]
         index2=url_tmp.find("\"")
         url_teacher=url_tmp[0:index2]
-        if not url_ppt[0:4]=="rtmp":
+        if not url_teacher[0:4]=="rtmp":
             print("下载失败，未找到有效的下载地址。")
         else:
             IDMdown(url_teacher, DownPath, Name+"_teacher.flv")

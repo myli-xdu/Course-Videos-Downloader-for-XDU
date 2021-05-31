@@ -13,6 +13,9 @@
 
 **怎么查看下载进度**：桌面右下角小图标-![image](https://user-images.githubusercontent.com/65484889/120215456-5564f880-c268-11eb-832f-8de494bcd02e.png)-右键-还原所有下载窗口(如果一次还原太多窗口电脑会炸，建议一个一个看)
 
+**如何手动保存视频** ![image](https://user-images.githubusercontent.com/65484889/120215671-93621c80-c268-11eb-863b-5d1ff1c9ede8.png)
+
+
 
 # 声明
 代码写得很烂，请多包容！希望有时间可以重构一下。本项目可以给出录播网址转m3u8流的api,有兴趣的可以尝试写个h5播放器前端。

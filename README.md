@@ -9,7 +9,7 @@
 
 **怎么查看下载进度**：桌面右下角小图标-![image](https://user-images.githubusercontent.com/65484889/120215456-5564f880-c268-11eb-832f-8de494bcd02e.png)-右键-还原所有下载窗口(如果一次还原太多窗口电脑会炸，建议一个一个看)
 
-**如何手动保存视频** 
+**如何手动保存视频** ：
 
 ![image](https://user-images.githubusercontent.com/65484889/120215671-93621c80-c268-11eb-863b-5d1ff1c9ede8.png)
 
